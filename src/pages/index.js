@@ -173,18 +173,20 @@ function About(props) {
             <button className="skills-button">R</button>
             <button className="skills-button">Python</button>
             <button className="skills-button">Java</button>
+            <button className="skills-button">C</button>
+            <button className="skills-button">C++</button>
             <p className="text-secondary">Frameworks, Other</p>
             <button className="skills-button">ReactJS</button>
             <button className="skills-button">GatsbyJS</button>
-            <button className="skills-button">ThreeJS</button>
-            <button className="skills-button">Material UI</button>
+            <button className="skills-button">Powerpoint</button>
+            <button className="skills-button">Microsoft Word</button>
             <button className="skills-button">Bootstrap</button>
             <button className="skills-button">Git</button>
-            <button className="skills-button">Webpack</button>
-            <button className="skills-button">react-spring</button>
+            <button className="skills-button">Excel</button>
+
             <p className="text-secondary">Software</p>
-            <button className="skills-button">Figma</button>
-            <button className="skills-button">Adobe Creative Cloud</button>
+            <button className="skills-button">Adobe Premiere Pro</button>
+            <button className="skills-button">Adobe Photoshop</button>
           </div>
         </div>
       </ParallaxLayer>
