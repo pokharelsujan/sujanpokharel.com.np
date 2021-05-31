@@ -1,9 +1,9 @@
 {
   "name": "personal-website",
-  "description": "Zhanar Osmonaliev's personal blog.",
-  "author": "Zhanarbek Osmonaliev",
+  "description": "Sujan Pokharel's personal blog.",
+  "author": "Sujan Pokharel",
   "version": "1.6.0",
-  "license": "MIT",
+  
   "bugs": {
     "url": "https://github.com/W3Layouts/gatsby-starter-delog/issues"
   },
@@ -46,11 +46,11 @@
   "homepage": "https://github.com/W3Layouts/gatsby-starter-delog#readme",
   "keywords": [
     "gatsby",
-    "Janar",
-    "Zhanarbek",
+    "Sujan ",
+    "Pokharel",
     "Osmonaliev",
-    "Stony Brook",
-    "Web Developer"
+    "Kathmandu",
+    "Data science Enthusiast"
   ],
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
