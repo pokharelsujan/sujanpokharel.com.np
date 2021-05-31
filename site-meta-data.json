@@ -3,8 +3,8 @@
   "siteUrl": "https://sujanpokharel.com.np",
   "description": "Welcome to my personal Photography Contents. Here I share my stories captured in a frame. I am very passionate about Photography. Currently, I am a Computational Mathematics student at Kathmandu University",
   "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
-  "url": "https://sujanpokharel.com.np/blog",
-  "image": "https://janarosmonaliev.com/assets/site-thumbnail.png",
+  "url": "https://sujanpokharel.com.np/Photography",
+  "image": "https://sujanpokharel.com.np/assets/site-thumbnail.png",
   "blog": {
     "title": "Sujan Pokharel's Photography and Projects",
     "description": "Welcome to my personal blog. Here I share my stories and ideas with the world. I am very passionate about programming and design. Currently, I am a Computational Mathematics student at Kathmandu University."
@@ -12,6 +12,6 @@
   "home": {
     "title": "Sujan Pokharel| Personal Website",
     "description": "Welcome to Sujan Pokharel's personal portfolio website where you can know more about him and read his blog.",
-    "image": "https://janarosmonaliev.com/assets/janarosmonaliev-thumbnail.png"
+    "image": "https://sujanpokharel.com.np/assets/site-thumbnail.png"
   }
 }
