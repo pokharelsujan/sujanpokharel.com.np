@@ -14,7 +14,7 @@ const useStore = create((set) => {
         const config = {
           font,
           size: 15,
-          height: 2,
+          height: 4,
           curveSegments: 4,
           evelEnabled: false
         };
