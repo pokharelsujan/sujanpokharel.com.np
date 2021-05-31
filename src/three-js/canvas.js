@@ -87,7 +87,7 @@ const useStore = create((set) => {
             {
               position: [-2, -2, -10],
               r: 0,
-              geometry: new THREE.TextGeometry("J", config)
+              geometry: new THREE.TextGeometry("S", config)
             }
           ]
         });
